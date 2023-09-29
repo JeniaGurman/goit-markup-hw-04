@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="none"><g filter="url(#a)"><path fill="#4D5AE5" d="M44 20a19.937 19.937 0 0 1-5.858 14.142A19.937 19.937 0 0 1 24 40a19.937 19.937 0 0 1-14.142-5.858A19.938 19.938 0 0 1 4 20 19.937 19.937 0 0 1 9.858 5.858 19.938 19.938 0 0 1 24 0a19.937 19.937 0 0 1 14.142 5.858A19.937 19.937 0 0 1 44 20Z"/><g fill="#F4F4FD" clip-path="url(#b)"><path d="M31.996 28H32V22.13c0-2.87-.618-5.082-3.974-5.082-1.613 0-2.696.886-3.138 1.725h-.047v-1.457H21.66V28h3.314V22.71c0-1.393.264-2.74 1.988-2.74 1.7 0 1.725 1.59 1.725 2.83V28h3.31ZM16.264 17.318h3.317V28h-3.317V17.318ZM17.921 12c-1.06 0-1.92.86-1.92 1.921 0 1.06.86 1.94 1.92 1.94 1.061 0 1.922-.88 1.922-1.94S18.98 12 17.92 12Z"/></g></g><defs><clipPath id="b"><path fill="#fff" d="M16 12h16v16H16z"/></clipPath><filter id="a" width="48" height="48" x="0" y="0" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/><feOffset dy="4"/><feGaussianBlur stdDeviation="2"/><feComposite in2="hardAlpha" operator="out"/><feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_603401_524"/><feBlend in="SourceGraphic" in2="effect1_dropShadow_603401_524" result="shape"/></filter></defs></svg>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_603401_526)">
+<path d="M15.9961 16V15.9993H16.0001V10.1313C16.0001 7.26065 15.3821 5.04932 12.0261 5.04932C10.4128 5.04932 9.33009 5.93465 8.88809 6.77398H8.84143V5.31732H5.65942V15.9993H8.97276V10.71C8.97276 9.31732 9.23676 7.97065 10.9614 7.97065C12.6608 7.97065 12.6861 9.55998 12.6861 10.7993V16H15.9961Z" fill="#F4F4FD"/>
+<path d="M0.264038 5.31793H3.58137V15.9999H0.264038V5.31793Z" fill="#F4F4FD"/>
+<path d="M1.92139 -6.10352e-05C0.860728 -6.10352e-05 6.10352e-05 0.860606 6.10352e-05 1.92127C6.10352e-05 2.98194 0.860728 3.86061 1.92139 3.86061C2.98206 3.86061 3.84273 2.98194 3.84273 1.92127C3.84206 0.860606 2.98139 -6.10352e-05 1.92139 -6.10352e-05V-6.10352e-05Z" fill="#F4F4FD"/>
+</g>
+<defs>
+<clipPath id="clip0_603401_526">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>
