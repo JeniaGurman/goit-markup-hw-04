@@ -288,6 +288,7 @@ img {
     padding-top: 120px;
     padding-bottom: 120px;
     
+    
     }
 
 .team-logo {
@@ -303,6 +304,9 @@ img {
 
 .team-list {
     display: flex;
+    
+        align-content: center;
+        justify-content: center;
     gap: 24px;
 }
 
