@@ -440,6 +440,7 @@ img {
 
 .portfolio-cover-wrap {
     position: relative;
+    overflow: hidden;
 }
 
 .portfolio-text-wrap {
@@ -479,7 +480,7 @@ img {
 }
 
 .portfolio-img {
-    overflow: hidden;
+    
 }
 
 .portfolio-list-item {
